@@ -1,6 +1,7 @@
 # Hackathon
 For the first hackathon
-Some suggested Presentation verbiage:
+
+#Some suggested Presentation verbiage:
 
 Team Paradigm’s prototype focuses on an “intuitive interface” that does not need much explaining; users can figure out how it works as soon as it is fired up.  
 
