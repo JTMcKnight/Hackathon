@@ -9,7 +9,7 @@ An intuitive interface is one that works the way the user expects it to; it must
 
  Intuitive interfaces have real advantages:
 
-   •	Create happy users  
-   •	Require less training and support
+   •	 Create happy users  
+   •	 Require less training and support
 
 If an interface works the way users expect it to, they do not need to learn how to use it.
